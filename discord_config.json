@@ -1,0 +1,8 @@
+{
+  "SteamAPIKey": "xxx",
+  "ssh": {
+    "host": "xxx",
+    "user": "xxx",
+	"pass": "xxx"
+  }
+}
