@@ -1,2 +1,3 @@
-# csgo-report-comment-bot-for-discord
-A csgo report &amp; commend bot for Discord!
+# CSGO Report & Commend bot for discord !
+
+# Setup
